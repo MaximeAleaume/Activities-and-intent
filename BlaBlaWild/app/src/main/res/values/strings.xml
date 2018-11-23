@@ -1,0 +1,11 @@
+<resources>
+    <string name="action_settings">Settings</string>
+    <string name="departure">Departure</string>
+    <string name="departure_text"></string>
+    <string name="destinations">Destination</string>
+    <string name="Date">Date</string>
+    <string name="date_text">01/01/2000</string>
+    <string name="destinations_text"></string>
+    <string name="search">SEARCH</string>
+    <string name="search_itinerary">SEARCH AN ITINERARY</string>
+</resources>
