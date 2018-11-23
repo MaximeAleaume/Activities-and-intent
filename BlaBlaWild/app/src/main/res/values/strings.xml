@@ -8,4 +8,7 @@
     <string name="destinations_text"></string>
     <string name="search">SEARCH</string>
     <string name="search_itinerary">SEARCH AN ITINERARY</string>
+    <string name="name">Name</string>
+    <string name="toast">Please fill both first array</string>
+    <string name="bail">Replace with your own action</string>
 </resources>

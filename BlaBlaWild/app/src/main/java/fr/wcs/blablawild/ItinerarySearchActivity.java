@@ -29,7 +29,7 @@ public class ItinerarySearchActivity extends AppCompatActivity {
 
 
         Context context = getApplicationContext();
-        CharSequence text = "Please fill both first array";
+        CharSequence text = getString(R.string.toast);
         int duration = Toast.LENGTH_LONG;
         final Toast toast = Toast.makeText(context, text, duration);
 
